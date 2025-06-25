@@ -49,14 +49,8 @@ Trivia provides a structured learning experience through the following steps:
 
 ---
 
-## 📸 Screenshots (Optional)  
-
-Include screenshots for:  
-1. Login Page   
-2. Category and Class Selection  
-3. Video Quiz Interface  
-4. Puzzle Activity  
-5. News Reading Feature  
+## 📸 Live Demo
+https://trivia-psi-flax.vercel.app/
 
 
 
